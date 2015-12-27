@@ -1,4 +1,5 @@
-# Material Theme
+# Material Theme by dcz
 
-A theme based on MS Material kit
+A Visual Studio Code theme based on MS Material kit
 
+![theme preview](preview.png)
