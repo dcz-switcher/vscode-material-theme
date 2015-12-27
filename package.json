@@ -1,0 +1,24 @@
+{
+	"__metadata": {},
+	"name": "Theme-Material",
+	"displayName": "Material Theme by dcz",
+	"description": "Material theme for VS Code. Based on the MS Material kit.",
+	"version": "1.0.0",
+	"publisher": "dcz",
+	"engines": {
+		"vscode": "0.10.x"
+	},
+	"categories": [
+		"Themes"
+	],
+	"icon": "icon.svg",
+	"contributes": {
+		"themes": [
+			{
+				"label": "Material by dcz",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Material-Theme.tmTheme"
+			}
+		]
+	}
+}
